@@ -6,4 +6,4 @@ while levitation_force < 10
   sleep (2)
   levitation_force += 1
 end
-"You have now reached a levitation force of 10"
+puts "You have now reached a levitation force of 10"
